@@ -1,6 +1,7 @@
+/* eslint-disable import/no-extraneous-dependencies */
 import { storiesOf, html } from '@open-wc/storybook';
 
-import '../lion-form.js';
+import '@lion/form/lion-form.js';
 import '@lion/fieldset/lion-fieldset.js';
 import '@lion/textarea/lion-textarea.js';
 import '@lion/input/lion-input.js';
